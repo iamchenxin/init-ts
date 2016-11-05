@@ -23,10 +23,9 @@
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-core": "^6.17.0",
-    "flow-bin": "^0.33.0",
+    "flow-bin": "^0.34.0",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-babel": "^6.1.2",
-    "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.6.0",
     "init-preset-node": "^6.8.1",
     "init-scripts": "^0.0.2",
