@@ -1,7 +1,7 @@
 // @flow
 
 function hello(){
-  return 'world';
+  return 'world 0.0.2';
 }
 
 export {
